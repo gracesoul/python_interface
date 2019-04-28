@@ -2,6 +2,9 @@
 # @time:2019/4/18 13:32
 # Author:yh
 # @file:run.py
+import sys
+sys.path.append('./')
+# print(sys.path)
 
 import unittest
 from HTMLTestRunnerNew import HTMLTestRunner
