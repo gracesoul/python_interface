@@ -1,0 +1,681 @@
+2019-04-28 10:50:39,353-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试与-----
+2019-04-28 10:50:39,433-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 10:50:40,330-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 10:50:41,190-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 10:50:41,935-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 10:50:42,623-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 10:50:43,331-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 10:50:44,079-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 10:50:44,813-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 10:50:45,497-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 10:50:46,170-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 10:51:35,081-request-[INFO]-[my_log.py:36]-[日志信息]:测试
+2019-04-28 10:56:24,178-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试与-----
+2019-04-28 10:56:24,200-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 10:56:25,270-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:正常登录
+2019-04-28 10:56:25,272-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 10:56:25,995-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入长度不满11位的手机号
+2019-04-28 10:56:25,997-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 10:56:26,762-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入非全数字的手机号
+2019-04-28 10:56:26,764-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 10:56:27,559-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入不满足要求的密码
+2019-04-28 10:56:27,562-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 10:56:28,341-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的密码
+2019-04-28 10:56:28,344-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 10:56:29,080-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的手机号
+2019-04-28 10:56:29,082-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 10:56:29,798-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号
+2019-04-28 10:56:29,802-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 10:56:30,515-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入密码
+2019-04-28 10:56:30,517-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 10:56:31,214-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号和密码
+2019-04-28 10:56:31,216-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:03:31,190-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试与-----
+2019-04-28 11:03:31,221-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 11:03:32,341-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:正常登录
+2019-04-28 11:03:32,343-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 11:03:33,341-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入长度不满11位的手机号
+2019-04-28 11:03:33,346-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 11:03:34,263-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入非全数字的手机号
+2019-04-28 11:03:34,269-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 11:03:35,199-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入不满足要求的密码
+2019-04-28 11:03:35,200-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 11:03:36,090-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的密码
+2019-04-28 11:03:36,093-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 11:03:37,167-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的手机号
+2019-04-28 11:03:37,169-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 11:03:38,368-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号
+2019-04-28 11:03:38,370-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 11:03:39,284-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入密码
+2019-04-28 11:03:39,286-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 11:03:40,212-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号和密码
+2019-04-28 11:03:40,216-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:04:52,939-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试与-----
+2019-04-28 11:04:52,959-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 11:04:52,960-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:52,967-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:04:53,087-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:04:54,121-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:正常登录
+2019-04-28 11:04:54,143-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 11:04:54,145-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:54,147-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1', 'pwd': '123456'}
+2019-04-28 11:04:54,186-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:04:55,641-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入长度不满11位的手机号
+2019-04-28 11:04:55,650-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 11:04:55,653-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:55,661-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1868877/*-6', 'pwd': '123456'}
+2019-04-28 11:04:55,700-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:04:56,531-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入非全数字的手机号
+2019-04-28 11:04:56,540-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 11:04:56,542-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:56,549-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '12'}
+2019-04-28 11:04:56,596-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:04:57,650-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入不满足要求的密码
+2019-04-28 11:04:57,653-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 11:04:57,663-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:57,665-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '666666'}
+2019-04-28 11:04:57,713-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:04:59,616-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的密码
+2019-04-28 11:04:59,618-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 11:04:59,620-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:04:59,622-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688770000', 'pwd': '123456'}
+2019-04-28 11:04:59,670-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:05:00,809-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:输入错误的手机号
+2019-04-28 11:05:00,817-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 11:05:00,819-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:05:00,823-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': '123456'}
+2019-04-28 11:05:00,893-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:05:01,709-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号
+2019-04-28 11:05:01,711-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 11:05:01,727-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:05:01,734-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': ''}
+2019-04-28 11:05:01,775-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-04-28 11:05:02,782-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入密码
+2019-04-28 11:05:02,787-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 11:05:02,791-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:05:02,801-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': ''}
+2019-04-28 11:05:02,890-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:05:03,593-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束最后一条测试用例:不输入手机号和密码
+2019-04-28 11:05:03,596-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:13:53,202-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例开始执行-----
+2019-04-28 11:13:53,394-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例：正常登录
+2019-04-28 11:13:53,396-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:13:53,397-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:13:53,467-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:13:54,508-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例：会员ID 为空
+2019-04-28 11:13:54,515-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:54,521-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:54,628-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:13:55,604-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例：借款标题为空
+2019-04-28 11:13:55,606-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:55,607-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:55,644-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:13:56,566-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例：借款金额为空
+2019-04-28 11:13:56,568-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:56,571-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:56,610-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:13:57,730-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例：年利率为空
+2019-04-28 11:13:57,731-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:57,738-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:57,775-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:13:58,726-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例：借款期限为空
+2019-04-28 11:13:58,728-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:58,730-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:58,766-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:13:59,683-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例：借款期限类型为空
+2019-04-28 11:13:59,687-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:13:59,689-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:13:59,719-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:14:00,565-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例：还款方式为空
+2019-04-28 11:14:00,567-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:00,569-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '', 'biddingDays': '5'}
+2019-04-28 11:14:00,608-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:14:01,470-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例：竞标天数为空
+2019-04-28 11:14:01,473-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:01,476-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': ''}
+2019-04-28 11:14:01,526-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"所有参数不能为空"}
+2019-04-28 11:14:02,459-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第10条测试用例：memberId为负数
+2019-04-28 11:14:02,466-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:02,468-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '-1083', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:02,504-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20104","data":null,"msg":"参数错误：用户ID memberId必须是正整数"}
+2019-04-28 11:14:03,528-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第11条测试用例：memberId为小数
+2019-04-28 11:14:03,529-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:03,531-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1.23', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:03,607-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:05,015-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第12条测试用例：memberId为中文
+2019-04-28 11:14:05,018-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:05,021-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '中文', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:05,059-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:05,998-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第13条测试用例：memberId有特殊字符
+2019-04-28 11:14:06,001-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:06,002-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '12/2', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:06,037-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:06,977-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第14条测试用例：memberId不存在
+2019-04-28 11:14:06,995-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:06,998-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '9000', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:07,070-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20105","data":null,"msg":"不存在该会员"}
+2019-04-28 11:14:08,470-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第15条测试用例：借款金额小于1000
+2019-04-28 11:14:08,473-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:08,477-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '500', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:08,528-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-04-28 11:14:09,393-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第16条测试用例：借款金额不能被100整除
+2019-04-28 11:14:09,396-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:09,397-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '98764', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:09,437-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-04-28 11:14:10,320-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第17条测试用例：借款金额为负数
+2019-04-28 11:14:10,322-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:10,324-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '-10000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:10,364-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20106","data":null,"msg":"参数错误：借款金额amount必须为大于1000并能被100整除的正整数"}
+2019-04-28 11:14:11,324-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第18条测试用例：借款金额有特殊字符
+2019-04-28 11:14:11,325-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:11,326-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '123/*', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:11,368-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:12,338-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第19条测试用例：借款金额有中文
+2019-04-28 11:14:12,340-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:12,342-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '中文', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:12,415-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:13,324-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第20条测试用例：借款利率为0
+2019-04-28 11:14:13,327-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:13,329-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:13,389-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-04-28 11:14:14,290-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第21条测试用例：借款利率大于24
+2019-04-28 11:14:14,295-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:14,297-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '25', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:14,353-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20107","data":null,"msg":"参数错误：借款利率loanRate值必须大于0小于或等于24"}
+2019-04-28 11:14:15,322-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第22条测试用例：借款日期类型为1（不存在）
+2019-04-28 11:14:15,327-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:15,337-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '1', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:15,375-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-04-28 11:14:16,419-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第23条测试用例：借款日期类型为3（不存在）
+2019-04-28 11:14:16,422-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:16,424-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '3', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:16,472-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20108","data":null,"msg":"参数错误：借款日期类型loanDateType只能为0,2,4"}
+2019-04-28 11:14:17,360-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第24条测试用例：借款日期类型存在特殊字符
+2019-04-28 11:14:17,368-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:17,372-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '/*1', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:17,404-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:18,325-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第25条测试用例：借款日期类型存在中文
+2019-04-28 11:14:18,328-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:18,330-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '中文', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:18,371-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:19,277-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第26条测试用例：借款期限 存在特殊字符
+2019-04-28 11:14:19,279-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:19,284-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '/*12', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:19,317-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:20,203-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第27条测试用例：借款期限类型 存在中文
+2019-04-28 11:14:20,206-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:20,207-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '中文', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:20,239-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:21,140-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第28条测试用例：还款方式 存在特殊字符
+2019-04-28 11:14:21,141-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:21,143-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '1/', 'biddingDays': '5'}
+2019-04-28 11:14:21,192-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:22,257-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第29条测试用例：还款方式 存在中文
+2019-04-28 11:14:22,261-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:22,263-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '中文', 'biddingDays': '5'}
+2019-04-28 11:14:22,307-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:23,370-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第30条测试用例：竞标天数 存在特殊字符
+2019-04-28 11:14:23,372-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:23,373-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '///'}
+2019-04-28 11:14:23,403-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:24,373-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第31条测试用例：竞标天数 存在中文
+2019-04-28 11:14:24,375-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:24,378-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '中文'}
+2019-04-28 11:14:24,410-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:25,440-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第32条测试用例：正常添加标的
+2019-04-28 11:14:25,500-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:25,502-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '新的测试', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:25,560-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-04-28 11:14:26,471-test_addloan-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:14:26,478-test_audit-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例开始执行-----
+2019-04-28 11:14:26,480-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条用例：正常登录
+2019-04-28 11:14:26,485-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:14:26,486-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:14:26,553-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:14:27,412-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条用例：项目状态为1：审核中
+2019-04-28 11:14:27,413-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:27,414-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '1'}
+2019-04-28 11:14:27,478-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：审核通过，当前标为审核中状态"}
+2019-04-28 11:14:28,288-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条用例：项目状态为2：初审中
+2019-04-28 11:14:28,291-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:28,293-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '2'}
+2019-04-28 11:14:28,357-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：审核通过，当前标为二审(初审中)状态"}
+2019-04-28 11:14:29,258-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条用例：项目状态为3：复审中
+2019-04-28 11:14:29,260-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:29,261-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '3'}
+2019-04-28 11:14:29,323-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：审核通过，当前标为三审(复审中)状态"}
+2019-04-28 11:14:30,435-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条用例：项目状态为4：竞标中
+2019-04-28 11:14:30,440-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:30,442-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '4'}
+2019-04-28 11:14:30,504-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-04-28 11:14:31,442-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条用例：项目状态为5：核保审批
+2019-04-28 11:14:31,443-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:31,446-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '5'}
+2019-04-28 11:14:31,496-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：当前标为核保审批状态"}
+2019-04-28 11:14:32,449-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条用例：项目状态为6：平台终审
+2019-04-28 11:14:32,452-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:32,453-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '6'}
+2019-04-28 11:14:32,508-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：当前标为平台终审状态"}
+2019-04-28 11:14:33,432-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条用例：项目状态为7：还款中
+2019-04-28 11:14:33,439-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:33,444-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '7'}
+2019-04-28 11:14:33,487-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20210","data":null,"msg":"不允许直接更新项目到还款中状态，请执行生成回款计划"}
+2019-04-28 11:14:34,278-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条用例：项目状态为8：审核不通过
+2019-04-28 11:14:34,279-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:34,281-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '8'}
+2019-04-28 11:14:34,318-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20211","data":null,"msg":"当前接口暂未开放该状态值更新"}
+2019-04-28 11:14:35,275-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第10条用例：项目状态为9：流标
+2019-04-28 11:14:35,280-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:35,284-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '9'}
+2019-04-28 11:14:35,343-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20211","data":null,"msg":"当前接口暂未开放该状态值更新"}
+2019-04-28 11:14:36,600-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第11条用例：项目状态为10：还款完成
+2019-04-28 11:14:36,608-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:36,615-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '10'}
+2019-04-28 11:14:36,684-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20211","data":null,"msg":"当前接口暂未开放该状态值更新"}
+2019-04-28 11:14:38,061-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第12条用例：项目状态为11：申请流标
+2019-04-28 11:14:38,063-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:38,067-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '11'}
+2019-04-28 11:14:38,101-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20211","data":null,"msg":"当前接口暂未开放该状态值更新"}
+2019-04-28 11:14:38,983-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第13条用例：项目状态为0：不存在
+2019-04-28 11:14:38,985-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:38,993-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '0'}
+2019-04-28 11:14:39,068-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20205","data":null,"msg":"参数错误：非法status参数，状态值1-11"}
+2019-04-28 11:14:40,327-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第14条用例：项目状态为12：不存在
+2019-04-28 11:14:40,329-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:40,331-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '12'}
+2019-04-28 11:14:40,449-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20205","data":null,"msg":"参数错误：非法status参数，状态值1-11"}
+2019-04-28 11:14:41,620-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第15条用例：项目id 为空
+2019-04-28 11:14:41,622-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:41,624-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '', 'status': '1'}
+2019-04-28 11:14:41,678-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20203","data":null,"msg":"参数错误：所有参数不能为空"}
+2019-04-28 11:14:42,781-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第16条用例：项目状态为空
+2019-04-28 11:14:42,783-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:42,786-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': ''}
+2019-04-28 11:14:42,843-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20203","data":null,"msg":"参数错误：所有参数不能为空"}
+2019-04-28 11:14:43,827-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第17条用例：项目id和项目状态全为空
+2019-04-28 11:14:43,829-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:43,830-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '', 'status': ''}
+2019-04-28 11:14:43,865-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20203","data":null,"msg":"参数错误：所有参数不能为空"}
+2019-04-28 11:14:44,904-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第18条用例：项目id不存在
+2019-04-28 11:14:44,907-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:44,908-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '115320', 'status': '1'}
+2019-04-28 11:14:44,944-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"20206","data":null,"msg":"不存在该项目"}
+2019-04-28 11:14:46,451-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第19条用例：项目id 存在特殊字符
+2019-04-28 11:14:46,459-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:46,463-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '/*/', 'status': '2'}
+2019-04-28 11:14:46,503-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:47,910-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第20条用例：项目id存在中文
+2019-04-28 11:14:47,912-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:47,919-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '中文', 'status': '3'}
+2019-04-28 11:14:47,954-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:49,766-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第21条用例：项目状态 存在特殊字符
+2019-04-28 11:14:49,769-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:49,773-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '+-+'}
+2019-04-28 11:14:49,815-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:51,193-test_audit-[INFO]-[my_log.py:36]-[日志信息]:开始执行第22条用例：项目状态 存在中文
+2019-04-28 11:14:51,195-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:51,199-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '2621', 'status': '中文'}
+2019-04-28 11:14:51,344-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20212","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:14:52,108-test_audit-[INFO]-[my_log.py:36]-[日志信息]:-----用例执行完毕-----
+2019-04-28 11:14:52,110-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试用例-----
+2019-04-28 11:14:52,321-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例：管理员正常登录
+2019-04-28 11:14:52,324-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:14:52,327-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871362019', 'pwd': '123456'}
+2019-04-28 11:14:52,398-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:14:53,249-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例：管理员加标
+2019-04-28 11:14:53,251-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/add
+2019-04-28 11:14:53,254-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1021', 'title': '贷款学习', 'amount': '80000', 'loanRate': '18.0', 'loanTerm': '6', 'loanDateType': '4', 'repaymemtWay': '11', 'biddingDays': '5'}
+2019-04-28 11:14:53,315-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2019-04-28 11:14:54,270-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例：管理员审核
+2019-04-28 11:14:54,273-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/loan/audit
+2019-04-28 11:14:54,275-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'id': '5666', 'status': '4'}
+2019-04-28 11:14:54,327-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2019-04-28 11:14:55,239-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例：投资人正常登录
+2019-04-28 11:14:55,241-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:14:55,243-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:14:55,289-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:14:56,234-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例：用户id为空
+2019-04-28 11:14:56,240-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:14:56,243-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '', 'password': '123456', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:14:56,286-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2019-04-28 11:14:57,576-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例：用户密码为空
+2019-04-28 11:14:57,578-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:14:57,580-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:14:57,618-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2019-04-28 11:14:58,580-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例：标的id为空
+2019-04-28 11:14:58,584-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:14:58,588-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '', 'amount': '10000'}
+2019-04-28 11:14:58,623-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2019-04-28 11:14:59,497-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例：投资金额为空
+2019-04-28 11:14:59,499-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:14:59,501-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': ''}
+2019-04-28 11:14:59,536-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2019-04-28 11:15:00,436-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例：用户密码<6位
+2019-04-28 11:15:00,452-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:00,454-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '1234', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:00,490-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11006","data":null,"msg":"参数错误，password长度必须大于6位且小于18位"}
+2019-04-28 11:15:01,354-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第10条测试用例：用户密码>18位
+2019-04-28 11:15:01,361-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:01,367-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '12345678911111111111', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:01,418-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11006","data":null,"msg":"参数错误，password长度必须大于6位且小于18位"}
+2019-04-28 11:15:02,259-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第11条测试用例：用户密码 存在特殊字符
+2019-04-28 11:15:02,260-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:02,261-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '/*', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:02,296-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11006","data":null,"msg":"参数错误，password长度必须大于6位且小于18位"}
+2019-04-28 11:15:03,132-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第12条测试用例：用户密码 存在中文
+2019-04-28 11:15:03,138-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:03,139-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '中文', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:03,175-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11006","data":null,"msg":"参数错误，password长度必须大于6位且小于18位"}
+2019-04-28 11:15:03,981-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第13条测试用例：用户id不存在
+2019-04-28 11:15:03,982-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:03,984-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '27900', 'password': '123456', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:04,034-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11008","data":null,"msg":"不存在该用户"}
+2019-04-28 11:15:04,980-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第14条测试用例：标的id不存在
+2019-04-28 11:15:04,982-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:04,983-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '53200', 'amount': '10000'}
+2019-04-28 11:15:05,028-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-04-28 11:15:05,779-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第15条测试用例：投资金额为中文
+2019-04-28 11:15:05,782-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:05,789-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': '中文'}
+2019-04-28 11:15:05,839-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11013","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:15:06,626-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第16条测试用例：投资金额存在特殊字符
+2019-04-28 11:15:06,629-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:06,630-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': '12+-'}
+2019-04-28 11:15:06,670-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11013","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:15:07,491-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第17条测试用例：投资金额不能被100整除
+2019-04-28 11:15:07,493-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:07,495-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': '1234'}
+2019-04-28 11:15:07,538-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2019-04-28 11:15:08,458-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第18条测试用例：投资金额>可投金额
+2019-04-28 11:15:08,460-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:08,463-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': '490000'}
+2019-04-28 11:15:08,499-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11012","data":null,"msg":"该标可投金额不足，可投金额：80000.0"}
+2019-04-28 11:15:09,352-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第19条测试用例：用户id为负数
+2019-04-28 11:15:09,356-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:09,358-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '-279', 'password': '123456', 'loanId': '5666', 'amount': '1234'}
+2019-04-28 11:15:09,400-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11004","data":null,"msg":"参数错误，memberId必须是大于0的正整数"}
+2019-04-28 11:15:10,176-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第20条测试用例：用户id存在小数
+2019-04-28 11:15:10,177-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:10,179-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '27.98', 'password': '123456', 'loanId': '5666', 'amount': '1234'}
+2019-04-28 11:15:10,218-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11013","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:15:11,019-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第21条测试用例：用户id 存在特殊字符
+2019-04-28 11:15:11,022-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:11,023-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '21/*', 'password': '123456', 'loanId': '5666', 'amount': '1234'}
+2019-04-28 11:15:11,084-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11013","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:15:11,898-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第22条测试用例：用户id 存在中文
+2019-04-28 11:15:11,901-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:11,903-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '中文', 'password': '123456', 'loanId': '5666', 'amount': '1234'}
+2019-04-28 11:15:11,948-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11013","data":null,"msg":"请根据数值参数的类型对应输入合法的数字"}
+2019-04-28 11:15:12,792-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第23条测试用例：标的id为负数
+2019-04-28 11:15:12,796-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:12,799-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '-5320', 'amount': '10000'}
+2019-04-28 11:15:12,865-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-04-28 11:15:13,667-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第24条测试用例：标的id存在小数
+2019-04-28 11:15:13,669-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:13,670-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '53.2', 'amount': '10000'}
+2019-04-28 11:15:13,708-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-04-28 11:15:14,509-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第25条测试用例：标的id 存在特殊字符
+2019-04-28 11:15:14,510-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:14,514-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '//', 'amount': '10000'}
+2019-04-28 11:15:14,552-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-04-28 11:15:15,433-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第26条测试用例：标的id 存在中文
+2019-04-28 11:15:15,434-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:15,436-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '中文', 'amount': '10000'}
+2019-04-28 11:15:15,526-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"11009","data":null,"msg":"不存在该标的"}
+2019-04-28 11:15:16,329-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:开始执行第27条测试用例：正常竞标
+2019-04-28 11:15:16,408-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/bidLoan
+2019-04-28 11:15:16,410-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'memberId': '1676', 'password': '123456', 'loanId': '5666', 'amount': '10000'}
+2019-04-28 11:15:16,475-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2019-04-28 11:15:17,396-test_bidloan-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:15:17,398-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试与-----
+2019-04-28 11:15:17,401-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 11:15:17,402-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:17,404-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:15:17,567-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:15:18,343-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:正常登录
+2019-04-28 11:15:18,345-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 11:15:18,353-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:18,355-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1', 'pwd': '123456'}
+2019-04-28 11:15:18,420-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:15:19,228-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入长度不满11位的手机号
+2019-04-28 11:15:19,233-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 11:15:19,235-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:19,237-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1868877/*-6', 'pwd': '123456'}
+2019-04-28 11:15:19,281-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:15:20,086-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入非全数字的手机号
+2019-04-28 11:15:20,087-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 11:15:20,089-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:20,090-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '12'}
+2019-04-28 11:15:20,131-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:15:20,913-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入不满足要求的密码
+2019-04-28 11:15:20,920-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 11:15:20,921-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:20,923-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '666666'}
+2019-04-28 11:15:20,965-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:15:21,753-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入错误的密码
+2019-04-28 11:15:21,761-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 11:15:21,765-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:21,767-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688770000', 'pwd': '123456'}
+2019-04-28 11:15:21,806-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:15:22,591-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入错误的手机号
+2019-04-28 11:15:22,596-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 11:15:22,598-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:22,599-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': '123456'}
+2019-04-28 11:15:22,645-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:23,458-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入手机号
+2019-04-28 11:15:23,459-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 11:15:23,461-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:23,462-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': ''}
+2019-04-28 11:15:23,503-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-04-28 11:15:24,251-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入密码
+2019-04-28 11:15:24,253-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 11:15:24,255-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:24,256-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': ''}
+2019-04-28 11:15:24,289-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:25,027-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入手机号和密码
+2019-04-28 11:15:25,029-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:15:25,031-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试用例-----
+2019-04-28 11:15:25,194-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例：正常登录
+2019-04-28 11:15:25,197-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:25,198-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:15:25,271-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:15:26,051-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例：不输入充值金额
+2019-04-28 11:15:26,054-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:26,060-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': ''}
+2019-04-28 11:15:26,096-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+2019-04-28 11:15:26,918-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例：不输入手机号码
+2019-04-28 11:15:26,919-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:26,920-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'amount': '1'}
+2019-04-28 11:15:26,953-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:27,753-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例：不输入手机号码和充值金额
+2019-04-28 11:15:27,758-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:27,762-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'amount': ''}
+2019-04-28 11:15:27,798-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:28,617-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例：充值金额为非数字
+2019-04-28 11:15:28,619-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:28,621-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': 'x1'}
+2019-04-28 11:15:28,655-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-04-28 11:15:29,508-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例：充值金额为负数
+2019-04-28 11:15:29,510-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:29,514-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '-1000'}
+2019-04-28 11:15:29,554-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+2019-04-28 11:15:30,371-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例：充值金额大于50万
+2019-04-28 11:15:30,373-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:30,374-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '1000000'}
+2019-04-28 11:15:30,412-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+2019-04-28 11:15:31,216-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例：充值金额小数点大于2位
+2019-04-28 11:15:31,217-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:31,221-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '25.5555'}
+2019-04-28 11:15:31,257-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-04-28 11:15:32,492-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例：手机号是未注册的
+2019-04-28 11:15:32,494-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:32,497-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871000000', 'amount': '0.01'}
+2019-04-28 11:15:32,538-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+2019-04-28 11:15:33,574-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第10条测试用例：手机号长度不足11位
+2019-04-28 11:15:33,576-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:33,578-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773', 'amount': '5000'}
+2019-04-28 11:15:33,612-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:15:34,383-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第11条测试用例：手机号长度存在非数字字符
+2019-04-28 11:15:34,384-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:34,385-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773b01', 'amount': '5000'}
+2019-04-28 11:15:34,426-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:15:35,263-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第12条测试用例：充值金额为0
+2019-04-28 11:15:35,264-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:35,266-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '0'}
+2019-04-28 11:15:35,308-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":{"id":1021,"regname":"小蜜蜂","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"17786426991","leaveamount":"129666.00","type":"1","regtime":"2019-04-23 11:13:36.0"},"msg":"充值成功"}
+2019-04-28 11:15:36,289-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:开始执行第13条测试用例：正常充值
+2019-04-28 11:15:36,380-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/recharge
+2019-04-28 11:15:36,381-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '1000'}
+2019-04-28 11:15:36,442-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":{"id":1021,"regname":"小蜜蜂","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"17786426991","leaveamount":"130666.00","type":"1","regtime":"2019-04-23 11:13:36.0"},"msg":"充值成功"}
+2019-04-28 11:15:37,371-test_recharge-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:15:37,372-test_register-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例开始执行-----
+2019-04-28 11:15:37,531-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例：输入已经注册的手机号
+2019-04-28 11:15:37,533-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:37,534-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871362015', 'pwd': '123456'}
+2019-04-28 11:15:37,614-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2019-04-28 11:15:38,439-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例：不输入密码
+2019-04-28 11:15:38,441-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:38,443-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871363467', 'pwd': ''}
+2019-04-28 11:15:38,500-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-04-28 11:15:39,346-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例：不输入手机号
+2019-04-28 11:15:39,353-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:39,355-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': '123456'}
+2019-04-28 11:15:39,391-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:40,239-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例：不输入手机号和密码
+2019-04-28 11:15:40,243-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:40,244-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': ''}
+2019-04-28 11:15:40,300-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:41,178-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例：输入长度不满11位的手机号
+2019-04-28 11:15:41,181-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:41,183-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1887136346', 'pwd': '123456'}
+2019-04-28 11:15:41,216-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:15:42,345-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例：输入非全数字的手机号
+2019-04-28 11:15:42,356-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:42,359-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '188713634a6', 'pwd': '123456'}
+2019-04-28 11:15:42,419-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:15:43,453-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例：输入4位长度的密码
+2019-04-28 11:15:43,454-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:43,457-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871363467', 'pwd': '1234'}
+2019-04-28 11:15:43,518-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-04-28 11:15:44,367-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例：输入19位长度的密码
+2019-04-28 11:15:44,369-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:44,370-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871363467', 'pwd': '1234567891010101010'}
+2019-04-28 11:15:44,431-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2019-04-28 11:15:45,745-test_register-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例：正常注册
+2019-04-28 11:15:45,870-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/register
+2019-04-28 11:15:45,873-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18999995397', 'pwd': '123456'}
+2019-04-28 11:15:45,930-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2019-04-28 11:15:47,102-test_register-[INFO]-[my_log.py:36]-[日志信息]:测试用例执行完毕
+2019-04-28 11:15:47,108-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:---测试用例开始执行---
+2019-04-28 11:15:47,240-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 11:15:47,243-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:15:47,245-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:15:47,317-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:15:48,137-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:不输入取现金额
+2019-04-28 11:15:48,139-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:48,140-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': ''}
+2019-04-28 11:15:48,173-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+2019-04-28 11:15:48,961-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:不输入手机号码
+2019-04-28 11:15:48,965-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:48,967-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'amount': '1'}
+2019-04-28 11:15:49,008-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:50,142-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:不输入手机号和取现金额
+2019-04-28 11:15:50,156-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:50,164-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'amount': ''}
+2019-04-28 11:15:50,203-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:15:51,704-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:取现金额为字母
+2019-04-28 11:15:51,705-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:51,707-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': 'xi'}
+2019-04-28 11:15:51,754-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-04-28 11:15:52,822-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:取现金额为中文
+2019-04-28 11:15:52,823-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:52,825-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '万元'}
+2019-04-28 11:15:52,868-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+2019-04-28 11:15:53,887-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:取现金额为负数
+2019-04-28 11:15:53,889-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:53,890-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '-1000'}
+2019-04-28 11:15:53,927-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+2019-04-28 11:15:54,825-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:取现金额大于50万
+2019-04-28 11:15:54,827-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:54,830-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '1000000'}
+2019-04-28 11:15:54,865-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+2019-04-28 11:15:55,641-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:取现金额的小数大于2位
+2019-04-28 11:15:55,642-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:55,643-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '25.5555'}
+2019-04-28 11:15:55,680-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+2019-04-28 11:15:56,804-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第10条测试用例:手机号是未注册的
+2019-04-28 11:15:56,806-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:56,809-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18871000000', 'amount': '0.01'}
+2019-04-28 11:15:56,877-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+2019-04-28 11:15:58,162-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第11条测试用例:手机号长度不足11位
+2019-04-28 11:15:58,168-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:58,170-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773', 'amount': '5000'}
+2019-04-28 11:15:58,212-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:15:59,282-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第12条测试用例:手机号存在字母
+2019-04-28 11:15:59,285-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:15:59,287-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773b01', 'amount': '5000'}
+2019-04-28 11:15:59,323-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:16:00,635-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第13条测试用例:手机号存在字符
+2019-04-28 11:16:00,637-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:16:00,640-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1868877*/-+', 'amount': '5000'}
+2019-04-28 11:16:00,674-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2019-04-28 11:16:01,467-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第14条测试用例:取现金额为0
+2019-04-28 11:16:01,469-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:16:01,471-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '0'}
+2019-04-28 11:16:01,510-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":{"id":1021,"regname":"小蜜蜂","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"17786426991","leaveamount":"130666.00","type":"1","regtime":"2019-04-23 11:13:36.0"},"msg":"取现成功"}
+2019-04-28 11:16:02,273-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第15条测试用例:取现金额大于剩余金额
+2019-04-28 11:16:02,277-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:16:02,280-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '400000'}
+2019-04-28 11:16:02,326-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"20119","data":null,"msg":"余额不足，请修改提现额度"}
+2019-04-28 11:16:03,048-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:开始执行第16条测试用例:正常取现
+2019-04-28 11:16:03,108-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/withdraw
+2019-04-28 11:16:03,109-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'amount': '5000'}
+2019-04-28 11:16:03,182-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":{"id":1021,"regname":"小蜜蜂","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"17786426991","leaveamount":"125666.00","type":"1","regtime":"2019-04-23 11:13:36.0"},"msg":"取现成功"}
+2019-04-28 11:16:03,972-test_withdraw-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
+2019-04-28 11:18:27,797-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----开始执行测试用例-----
+2019-04-28 11:18:27,882-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第1条测试用例:正常登录
+2019-04-28 11:18:27,884-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:27,887-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '17786426991', 'pwd': '123456'}
+2019-04-28 11:18:28,022-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2019-04-28 11:18:28,904-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:正常登录
+2019-04-28 11:18:28,915-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第2条测试用例:输入长度不满11位的手机号
+2019-04-28 11:18:28,918-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:28,920-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1', 'pwd': '123456'}
+2019-04-28 11:18:28,967-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:18:29,761-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入长度不满11位的手机号
+2019-04-28 11:18:29,764-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第3条测试用例:输入非全数字的手机号
+2019-04-28 11:18:29,770-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:29,773-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '1868877/*-6', 'pwd': '123456'}
+2019-04-28 11:18:29,814-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:18:30,635-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入非全数字的手机号
+2019-04-28 11:18:30,638-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第4条测试用例:输入不满足要求的密码
+2019-04-28 11:18:30,640-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:30,652-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '12'}
+2019-04-28 11:18:30,697-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:18:31,575-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入不满足要求的密码
+2019-04-28 11:18:31,580-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第5条测试用例:输入错误的密码
+2019-04-28 11:18:31,590-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:31,599-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': '666666'}
+2019-04-28 11:18:31,652-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:18:32,467-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入错误的密码
+2019-04-28 11:18:32,470-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第6条测试用例:输入错误的手机号
+2019-04-28 11:18:32,478-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:32,480-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688770000', 'pwd': '123456'}
+2019-04-28 11:18:32,515-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2019-04-28 11:18:33,412-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:输入错误的手机号
+2019-04-28 11:18:33,416-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第7条测试用例:不输入手机号
+2019-04-28 11:18:33,432-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:33,438-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': '123456'}
+2019-04-28 11:18:33,520-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:18:34,520-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入手机号
+2019-04-28 11:18:34,523-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第8条测试用例:不输入密码
+2019-04-28 11:18:34,529-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:34,531-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '18688773467', 'pwd': ''}
+2019-04-28 11:18:34,593-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2019-04-28 11:18:35,830-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入密码
+2019-04-28 11:18:35,839-test_login-[INFO]-[my_log.py:36]-[日志信息]:开始执行第9条测试用例:不输入手机号和密码
+2019-04-28 11:18:35,842-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的url:http://test.lemonban.com/futureloan/mvc/api/member/login
+2019-04-28 11:18:35,848-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的data:{'mobilephone': '', 'pwd': ''}
+2019-04-28 11:18:35,887-interface_practice.common.do_request-[DEBUG]-[my_log.py:34]-[日志信息]:请求的响应文本:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2019-04-28 11:18:36,911-test_login-[INFO]-[my_log.py:36]-[日志信息]:结束测试用例:不输入手机号和密码
+2019-04-28 11:18:36,938-test_login-[INFO]-[my_log.py:36]-[日志信息]:-----测试用例执行完毕-----
