@@ -20,11 +20,7 @@ suite = unittest.TestSuite()
 # loader = unittest.TestLoader()
 # suite.addTest(loader.loadTestsFromTestCase(LoginTest))
 # suite.addTest(loader.loadTestsFromTestCase(RegisterTest))
-# suite.addTest(loader.loadTestsFromTestCase(RechargeTest))
-# suite.addTest(loader.loadTestsFromTestCase(WithdrawTest))
-# suite.addTest(loader.loadTestsFromTestCase(AuditTest))
-# suite.addTest(loader.loadTestsFromTestCase(AddloanTest))
-# suite.addTest(loader.loadTestsFromTestCase(BidloanTest))
+
 
 
 dicover = unittest.defaultTestLoader.discover(case_dir,pattern='test_*.py')
